@@ -1,8 +1,7 @@
 # 👋 Hi, I’m **Wandi Ngema**
 
-## 🚀 Professional Summary
 
-Tech‑savvy and results‑driven **Business Development & Technology Sales Professional** with **3+ years of experience** in B2B and technology sales. I specialize in **outbound prospecting, new logo acquisition**, and generating **net‑new pipeline** through consultative, value‑based engagement.
+I'm a tech‑savvy and results‑driven **Business Development & Technology Sales Professional** with **3+ years of experience** in B2B and technology sales. I specialize in **outbound prospecting, new logo acquisition**, and generating **net‑new pipeline** through consultative, value‑based engagement.
 
 I bring a global mindset, hands‑on technical understanding, and a strong ability to build strategic relationships with stakeholders to consistently drive revenue growth.
 

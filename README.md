@@ -1,5 +1,4 @@
 <!--# 👋 Hi, I’m **Wandi Ngema**-->
-# A proud South African professional born in the Zulu Kingdom 🇿🇦🛡️.
 
 
 Tech savvy and results-driven business development professional with 3+ years of experience in B2B and technology sales. Strong focus on outbound prospecting, new logo acquisition, and generating net-new pipeline through consultative engagement. Experienced in global cross-functional collaboration and building strategic relationships with stakeholders to drive revenue growth.

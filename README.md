@@ -1,28 +1,37 @@
-# 👋 Hi, I’m **Wandi Ngema**
-## A proud South African professional born in the Zulu Kingdom 🇿🇦🛡️.
+<!--# 👋 Hi, I’m **Wandi Ngema**-->
+# A proud South African professional born in the Zulu Kingdom 🇿🇦🛡️.
 
 
-I'm a tech‑savvy and results‑driven **Business Development & Technology Sales Professional** with **3+ years of experience** in B2B and technology sales. I specialize in **outbound prospecting, new logo acquisition**, and generating **net‑new pipeline** through consultative, value‑based engagement.
-
-I bring a global mindset, hands‑on technical understanding, and a strong ability to build strategic relationships with stakeholders to consistently drive revenue growth.
+Tech savvy and results-driven business development professional with 3+ years of experience in B2B and technology sales. Strong focus on outbound prospecting, new logo acquisition, and generating net-new pipeline through consultative engagement. Experienced in global cross-functional collaboration and building strategic relationships with stakeholders to drive revenue growth.
 
 ---
 
 ## 🧠 Core Skills
 
-* Lead Generation & Outbound Prospecting
-* Enterprise & B2B Sales
-* Account & Strategic Account Management
-* Consultative & Value‑Based Selling
-* Executive & Stakeholder Engagement
-* Pipeline Development & Management
-* Sales Forecasting & Revenue Growth
-* Business & Market Development
-* Territory Management
-* Contract & Pricing Negotiation
-* Deal Closing & Partner Management
-* Cross‑Functional Collaboration
-* Sales Strategy & Regional Go‑To‑Market Execution
+- Lead Generation
+- Outbound Prospecting
+- Enterprise Sales
+- Account Management
+- Strategic Account Planning
+- Consultative Selling
+- Value-Based Selling
+- Customer Engagement
+- Stakeholder Management
+- Executive Engagement
+- Pipeline Development
+- Pipeline Management
+- Sales Forecasting
+- Revenue Growth
+- Business Development
+- Territory Management
+- Market Development
+- Contract Negotiation
+- Pricing Negotiation
+- Deal Closing
+- Partner Management
+- Cross-Functional Collaboration
+- Sales Strategy Execution
+- Regional Go-To-Market Strategy
 
 ---
 
@@ -56,15 +65,10 @@ I bring a global mindset, hands‑on technical understanding, and a strong abili
 
 ## 🌍 About Me
 
-Hi, I’m **Wandi Ngema**, a proudly South African professional born in the **Zulu Kingdom** 🛡️.
+Hi, I’m **Wandi Ngema**, a proudly South African professional born in the Zulu Kingdom 󰑠. My journey has taken me from the vibrant streets of Cape Town, where I studied and began my career, to the bustling metropolis of Shanghai, and now to Dubai, where I continue to grow as a global citizen 🌏. I’ve always been entrepreneurial by nature, a serial entrepreneur at heart, and deeply impact-driven. I love exploring how technology can empower businesses and people, and I thrive at the intersection of sales, strategy,
+and tech innovation.
 
-My journey has taken me from the vibrant streets of **Cape Town**—where I studied and began my career—to the fast‑paced energy of **Shanghai**, and now to **Dubai**, where I continue to grow as a global citizen 🌏.
-
-I’m entrepreneurial by nature, a **serial entrepreneur at heart**, and deeply **impact‑driven**. I thrive at the intersection of **sales, strategy, and technology**, constantly exploring how tech can empower businesses and people.
-
-What drives me is building something meaningful—creating opportunities, driving measurable growth, and helping organizations unlock their full potential through technology.
-
-I think globally, stay curious, and I’m always looking for better, smarter ways to do things.
+What drives me is the challenge of building something meaningful, whether that’s creating new opportunities, driving measurable growth, or helping people and organizations unlock their full potential through technology. I’m naturally curious, I think globally, and I’m always looking for better ways to do things
 
 ---
 
@@ -78,19 +82,43 @@ I think globally, stay curious, and I’m always looking for better, smarter way
 * **Excellence** – Holding myself to high standards
 * **Lifelong Learning** – Staying curious, adaptable, and continuously improving
 
+Whether I’m building pipelines, automating processes, or exploring new tech, I approach it all with curiosity, energy,
+and a love for problem-solving!
+
 ---
+
+
+## Education
+
+- **Postgraduate in Finance, Banking & Investment Management**  
+  *University of KwaZulu-Natal (UKZN), South Africa*
+
+- **Bachelor of Social Science**  
+  *University of Cape Town, South Africa*
+
+---
+
+## Certifications
+
+- **Google Cybersecurity Professional Certificate** — Google  
+- **Salesforce AI Associate** — Salesforce  
+- **Business Development & B2B Sales** — Udemy  
+- **Green Energy Finance Specialist** — RENAC, Germany
+
+---
+
 
 ## ✨ Fun Facts
 
-🌍 Lived and worked across **Africa, Asia, and the Middle East**
-💡 Energized by building ideas from scratch and turning them into real impact
-🚀 Naturally curious, always learning, rarely satisfied with the status quo
-☕ Fueled by great conversations, big ideas, and continuous growth
+* 🌍 Lived and worked across **Africa, Asia, and the Middle East**
+* 💡 Energized by building ideas from scratch and turning them into real impact
+* 🚀 Naturally curious, always learning, rarely satisfied with the status quo
+* ☕ Fueled by great conversations, big ideas, and continuous growth
 
 ---
 
 ### 🤝 Let’s Connect
 
-If you’re interested in **B2B sales, technology, security automation, cloud, or building impactful ideas**, feel free to reach out. I’m always open to meaningful conversations and collaborations.
+If you’re ready to scale your company and want help building predictable tech sales growth, feel free to reach out.  I’m always open to meaningful conversations and collaborations.
 
 ⭐ *Thanks for stopping by my GitHub!*

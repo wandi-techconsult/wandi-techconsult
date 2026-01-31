@@ -65,7 +65,7 @@ Tech savvy and results-driven business development professional with 3+ years of
 
 ## 🌍 About Me
 
-Hi, I’m **Wandi Ngema**, a proudly South African professional born in the Zulu Kingdom 󰑠. My journey has taken me from the vibrant streets of Cape Town, where I studied and began my career, to the bustling metropolis of Shanghai, and now to Dubai, where I continue to grow as a global citizen 🌏. I’ve always been entrepreneurial by nature, a serial entrepreneur at heart, and deeply impact-driven. I love exploring how technology can empower businesses and people, and I thrive at the intersection of sales, strategy,
+Hi, I’m **Wandi Ngema**, a proudly South African professional born in the Zulu Kingdom 🇿🇦🛡️. My journey has taken me from the vibrant streets of Cape Town, where I studied and began my career, to the bustling metropolis of Shanghai, and now to Dubai, where I continue to grow as a global citizen 🌏. I’ve always been entrepreneurial by nature, a serial entrepreneur at heart, and deeply impact-driven. I love exploring how technology can empower businesses and people, and I thrive at the intersection of sales, strategy,
 and tech innovation.
 
 What drives me is the challenge of building something meaningful, whether that’s creating new opportunities, driving measurable growth, or helping people and organizations unlock their full potential through technology. I’m naturally curious, I think globally, and I’m always looking for better ways to do things

@@ -122,3 +122,6 @@ and a love for problem-solving!
 If you’re ready to scale your company and want help building predictable tech sales growth, feel free to reach out.  I’m always open to meaningful conversations and collaborations.
 
 ⭐ *Thanks for stopping by my GitHub!*
+
+![Visitor Count](https://komarev.com/ghpvc/?username=wandi-techconsult&label=Visitors&color=4ade80&style=flat)
+

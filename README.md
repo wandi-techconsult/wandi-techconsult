@@ -1,4 +1,5 @@
 # 👋 Hi, I’m **Wandi Ngema**
+## A proud South African professional born in the Zulu Kingdom 🇿🇦🛡️.
 
 
 I'm a tech‑savvy and results‑driven **Business Development & Technology Sales Professional** with **3+ years of experience** in B2B and technology sales. I specialize in **outbound prospecting, new logo acquisition**, and generating **net‑new pipeline** through consultative, value‑based engagement.

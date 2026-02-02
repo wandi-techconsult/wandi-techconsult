@@ -99,10 +99,10 @@ and a love for problem-solving!
 
 ## Certifications
 
-- **Google Cybersecurity Professional Certificate** — Google  
-- **Salesforce AI Associate** — Salesforce  
-- **Business Development & B2B Sales** — Udemy  
-- **Green Energy Finance Specialist** — RENAC, Germany
+- **Google Cybersecurity Professional Certificate** 
+- **Salesforce AI Associate**  
+- **Business Development & B2B Sales** 
+- **Green Energy Finance Specialist** 
 
 ---
 
